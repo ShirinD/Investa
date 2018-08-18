@@ -91,13 +91,16 @@ background-color: #8e847a;
     width: 77%;
 }
 
+.main-div.login-p {
+	max-width: 47%;
+}
+
  .input-wrap {
-  height: 52px;
-  border: 1px solid #fff;
+     height: 52px;
+    border: 1px solid #2f3a4a;
     height: 53px;
     background: #2f3a4a;
     border-radius: 4px;
-
 }
 
 #form-label-t {
@@ -105,21 +108,14 @@ background-color: #8e847a;
     float: left;
     font-size: 14px;
     line-height: 52px;
-
+margin-left: 23px;
 }
 
 .login-form .form-control {
     background: none;
     border: none;
     }
-}
 
-
-
-#form-label-t {
-color: #fff;
-    float: left;
-}
 
 #rem {
     text-align: left;
