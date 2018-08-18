@@ -18,27 +18,37 @@
 <div class="login-form">
 <div class="main-div">
     <div class="panel">
-    <img src="assets/images/logo.png">
+   <img id="investa-logo" src="assets/images/logo.png">
    
-   <p>POWERED BY: CORELOGIC</p>
+      <p><span id="pb">POWERED BY:</span> <span id="c">CORE</span>LOGIC</p>
    </div>
     <form id="Login">
 
         <div class="form-group">
 
 
-            <input type="email" class="form-control" id="inputEmail" placeholder="Email Address">
+            <input type="email" class="form-control" id="inputEmail" placeholder="user@uci.edu">
 
         </div>
 
         <div class="form-group">
 
-            <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+            <input type="password" class="form-control" id="inputPassword" placeholder="******">
 
         </div>
-        <button type="submit" class="btn btn-primary">LOGIN</button>
-Remember me Forgot password?
-    </form>
+        <button type="submit" id="login-btn" class="btn btn-primary" onclick="window.location.href='/dashboard.html'">LOGIN</button>
+         </form>
+  <div id="rem-for-wrap">
+    <div id="rem">
+      		<label>
+						<input type="radio" name="radio" checked> <span class="label-text">Remember me</span>
+					</label>
+				</div>
+				
+    </div>
+    <div id="for">
+      </p>Forgot password?</p>
+    </div>
     </div>
 </div></div></div>
 
