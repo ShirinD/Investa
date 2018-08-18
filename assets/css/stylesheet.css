@@ -4,7 +4,7 @@
 }
 #sidebar-container {
     min-height: 100vh;   
-    background-color: #333;
+    background-color: #333e50;
     padding: 0;
 }
 
@@ -61,3 +61,16 @@
   text-align: right;
   padding-left: 10px;
 }
+
+.bg-dark {
+    background-color: #333e50 !important;
+}
+
+#small_logo {
+width: 22px;
+}
+
+#p_pic {
+    width: 46px;
+    margin-left: -12px;
+    }
