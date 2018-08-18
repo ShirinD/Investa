@@ -22,7 +22,13 @@ background-color: #3b4c66;}
 .panel p {
 	letter-spacing: 4px;
 	}
-        
+#pb { 
+	color: #fff;
+	}
+	
+#c {
+	color: #e23c31;
+	}    
         
 .panel {
     margin-bottom: 106px;
