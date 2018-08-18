@@ -12,6 +12,38 @@ background-color: #3b4c66;}
   height: 50px;
   line-height: 50px;
 }
+
+#investa-logo {
+    width: 117px;
+    margin-bottom: 14px;
+    }
+   
+   
+.panel p {
+	letter-spacing: 4px;
+	}
+        
+        
+.panel {
+    margin-bottom: 106px;
+    }
+    
+
+#login-btn {  
+    height: 44px;
+    line-height: 44px;
+    border-radius: 3px;
+	letter-spacing: 3px;
+
+    }
+    
+    
+#sing-btn {
+background-color: #8e847a;
+    border-color: #8e847a;
+	margin-top: 30px;
+}
+
 .main-div {
   margin: 10px auto 30px;
   max-width: 38%;
