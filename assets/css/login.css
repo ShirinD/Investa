@@ -88,8 +88,33 @@ background-color: #8e847a;
 /* ----- sign in page ----*/
 .input-wrap input {
     float: right;
-    width: 80%;
+    width: 77%;
 }
+
+ .input-wrap {
+  height: 52px;
+  border: 1px solid #fff;
+    height: 53px;
+    background: #2f3a4a;
+    border-radius: 4px;
+
+}
+
+#form-label-t {
+	color: #fff;
+    float: left;
+    font-size: 14px;
+    line-height: 52px;
+
+}
+
+.login-form .form-control {
+    background: none;
+    border: none;
+    }
+}
+
+
 
 #form-label-t {
 color: #fff;
