@@ -85,4 +85,32 @@ background-color: #8e847a;
 .back { text-align: left; margin-top:10px;}
 .back a {color: #444444; font-size: 13px;text-decoration: none;}
 
+/* ----- sign in page ----*/
+.input-wrap input {
+    float: right;
+    width: 80%;
+}
+
+#form-label-t {
+color: #fff;
+    float: left;
+}
+
+#rem {
+    text-align: left;
+    color: #fff;
+    font-size: 14px;
+    width: 50%;
+    float: left;
+    }
+    
+#for {
+    text-align: right;
+    color: #fff;
+    font-size: 14px;
+    width: 50%;
+    float: left;
+    }
+    
+
 
