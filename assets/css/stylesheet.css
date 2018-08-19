@@ -6,6 +6,7 @@
     min-height: 100vh;   
     background-color: #333e50;
     padding: 0;
+ box-shadow: 1px 3px 1px;
 }
 
 /* Sidebar sizes when expanded and expanded */
@@ -67,10 +68,46 @@
 }
 
 #small_logo {
-width: 22px;
+width: 19px;
 }
 
 #p_pic {
-    width: 46px;
-    margin-left: -12px;
+    width: 36px;
+    margin-left: -10px;
+    margin-right: 10px;
     }
+
+#main-content {
+	padding-left: 0px;
+	padding-right: 0px;
+    }
+    
+#top-nav {
+    width: 25%;
+    float: left;
+}
+
+#tt {
+    width: 71%;
+    float: left;
+    }
+    
+#top-menu {
+	border-bottom: 2px solid #d8d7d7;
+	margin-bottom: 40px;
+	overflow: hidden;
+	box-shadow: 1px 0px 7px #cbcaca;
+    }
+    
+#top-menu span {   
+    border-left: 1px solid #eaeaea;
+    padding: 14px 14px;
+}
+   
+#tt h1 {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 24px;
+    font-weight: 300;
+    color: #656363;
+}
