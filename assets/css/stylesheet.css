@@ -114,6 +114,7 @@ width: 19px;
 }
 
 #box-wrap {
-    border: 1px solid #333;
-    padding: 8px;
+	border: 1px solid #ececec;
+    padding: 9px;
+    box-shadow: 0px 0px 6px #c3c2c2;
 }
