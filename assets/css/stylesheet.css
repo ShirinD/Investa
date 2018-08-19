@@ -133,11 +133,11 @@ width: 19px;
 
 /*--------- Search criteria ----- */
 
-#cnc-sec {
+#cnc-sec #box-wrap {
 	background-image: linear-gradient(to bottom right, #d9dbe4, #777e89);
 }
 
-#cnc-pic #box-wrap {
+#cnc-pic  {
 	display: block;
     border-radius: 8px;
     margin-top: 27px;
