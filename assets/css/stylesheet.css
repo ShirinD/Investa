@@ -112,3 +112,8 @@ width: 19px;
     font-weight: 300;
     color: #656363;
 }
+
+#box-wrap {
+    border: 1px solid #333;
+    padding: 8px;
+}
