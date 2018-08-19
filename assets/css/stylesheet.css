@@ -7,6 +7,7 @@
     background-color: #333e50;
     padding: 0;
  box-shadow: 1px 3px 1px;
+box-shadow: 1px 2px 7px #b9b7b7;
 }
 
 /* Sidebar sizes when expanded and expanded */
@@ -83,8 +84,8 @@ width: 19px;
     }
     
 #top-nav {
-    width: 25%;
-    float: left;
+    width: auto;
+    float: right;
 }
 
 #tt {
@@ -101,12 +102,12 @@ width: 19px;
     
 #top-menu span {   
     border-left: 1px solid #eaeaea;
-    padding: 14px 14px;
+    padding: 20px 39px;
 }
    
 #tt h1 {
     font-size: 20px;
-    margin-top: 10px;
+    margin-top: 16px;
     margin-left: 24px;
     font-weight: 300;
     color: #656363;
