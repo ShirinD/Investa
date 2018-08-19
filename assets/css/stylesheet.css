@@ -130,3 +130,20 @@ width: 19px;
 .r2-space {
 	margin-top: 30px;
 }
+
+/*--------- Search criteria ----- */
+
+#cnc-sec {
+	background-image: linear-gradient(to bottom right, #d9dbe4, #777e89);
+}
+
+#cnc-pic {
+	display: block;
+    border-radius: 8px;
+    margin-top: 27px;
+    margin: 50px auto;
+    box-shadow: 8px 9px 12px #6d6b6bb3;
+    }
+
+/*--------- Search criteria ----- */
+
